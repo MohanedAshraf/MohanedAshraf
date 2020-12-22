@@ -10,4 +10,4 @@
 </details>
 <h2>𝔻𝕒𝕪𝕤 𝕝𝕖𝕗𝕥 𝕥𝕠 𝕗𝕚𝕟𝕚𝕤𝕙 𝕞𝕚𝕝𝕚𝕥𝕒𝕣𝕪 𝕤𝕖𝕣𝕧𝕚𝕔𝕖 </h2>
 
-![Visitor Count](https://profile-counter.herokuapp.com/count.svg)
+![Days Left](https://profile-counter.herokuapp.com/count.svg) 𝔻𝕒𝕪𝕤
